@@ -1,0 +1,39 @@
+.col-grey {
+   background-color: rgba(235, 227, 227, 0.897);
+}
+
+.row-dark {
+   background-color: rgba(24, 22, 22, 0.781);
+   color: aliceblue;
+}
+
+.col-center {
+   text-align: center;
+}
+
+header, main, .container-fluid-pad {
+   margin-bottom: 20px;
+}
+
+.row-height {
+   height: 100px;
+}
+
+a {
+   color: aliceblue;
+}
+
+.btn-wrapper, .card-title-center, .card-text-center {
+   text-align: center;
+}
+
+.col-flex {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+.card-mar {
+   margin-right: 8px;
+}
